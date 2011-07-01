@@ -113,7 +113,7 @@
 
 #banner {
 	background: #9c9;
-	padding-top: 10px
+	padding-top: 10px;
 	padding-bottom: 10px;
 	border-bottom: 2px solid;
 	font: small-caps 40px/40px "Times New Roman", serif;
@@ -141,7 +141,7 @@
 	float: left;
 	padding-top: 1em;
 	padding-left: 1em;
-	padding-bottom: 1em
+	padding-bottom: 1em;
 	width: 16em;
 	background: #141;
 }
@@ -149,4 +149,8 @@
 #side a {
 	color: #bfb;
 	font-size: small;
+}
+
+#store .entry form, #store .entry form div {
+	display: inline;
 }
